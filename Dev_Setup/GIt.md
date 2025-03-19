@@ -14,6 +14,22 @@ git add (stages)
 
 git commit -m ""(input short description of file)
 
+To edit username/email
+
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+
+
+To verify changes 
+
+git config --global --list
+
+
+To view ssh key
+
+cat ~/.ssh/id_rsa.pub
+
+
 lesson link
 
 [https://github.com/Accelerator-One-Days-Track-1/unit-fundamentals/blob/main/git/readme.md]
