@@ -15,3 +15,5 @@ String interpolation
 
 
 Properties vs function
+
+Meaning of red dot on file
