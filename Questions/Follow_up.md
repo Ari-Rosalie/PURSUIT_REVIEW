@@ -12,3 +12,6 @@ look into destructuring for a better understanding, go in-depth on Moder JS less
 Lesson on ternary and switch statements
 
 String interpolation
+
+
+Properties vs function

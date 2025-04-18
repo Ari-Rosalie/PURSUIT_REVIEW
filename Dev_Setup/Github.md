@@ -37,7 +37,9 @@ GitHub is essential for collaboration, enabling asynchronous work and keeping yo
 
 
 
+*****
 
+git add . && git commit -m "your message" && git push origin main
 
 
 
