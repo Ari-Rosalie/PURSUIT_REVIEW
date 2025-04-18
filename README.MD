@@ -2,10 +2,10 @@ My Coding Journey 🚀
 Welcome to my coding journey! This repository is a collection of my learning experiences, projects, and notes as I explore the world of programming, starting with JavaScript.
 
 📌 What You'll Find Here
-Code snippets and exercises
-Notes on key concepts
-Small projects and experiments
-Resources and references
+Code snippets, exercises, and
+notes on key concepts,
+Small projects, experiments
+resources and references.
 🔥 Technologies I'm Learning
 JavaScript (Node.js, DOM Manipulation, etc.)
 Git & GitHub
