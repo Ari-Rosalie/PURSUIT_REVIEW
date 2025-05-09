@@ -17,3 +17,8 @@ String interpolation
 Properties vs function
 
 Meaning of red dot on file
+
+immutable while reference types are mutable
+
+bigInt 
+symbol 
